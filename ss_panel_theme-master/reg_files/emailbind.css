@@ -1,0 +1,23 @@
+#mail-con .email-input{background:none;width:130px;line-height:37px;border:0;padding-left:10px;padding-right:10px;margin-right:10xp;}
+#mail-con .emailhz{background:none;width:55px;height:37px;line-height:37px;border:0;padding-left:5px;padding-right:10px;margin-right:10xp;}
+#mail-con .emailzifu{background:none;width:12px;height:37px;line-height:37px;border:0;}
+#email-wrapper {background:url(/images/emailbind/txt.jpg) no-repeat;height:37px;line-height:37px;}
+.btn{cursor:pointer;border:none;display:inline-block;width:108px;height:37px;background-color:#639c1d;line-height:37px;font-size:14px;color:#fff;text-decoration:none;text-align:center;}
+.btn1{color:#639c1d;background-color:#fff;}
+.btn:hover{color:#FFF;background-color:#58af2e;}
+
+#mail-con-bg{z-index:888;width:100%;height:100%;left:0;top:0;position:absolute;background:#333;FILTER:ALPHA(opacity=50);opacity:0.5}
+#mail-con{z-index:999;border:4px solid #FFF;width:580px;background:#ddefc7;color:#6c953a;position:absolute;}
+#mail-con .con{margin:30px;text-align:left}
+#mail-con .con .title{line-height:40px;height:40px;}
+#mail-con .con .title b{font-size:18px;font-family:微软雅黑,黑体;margin-right:12px}
+#mail-con .con .c{width:100%;display:table;margin:14px auto auto;}
+
+#mail-con .error {color:#C03;font-size:14px;font-weight:bold;}
+#mail-con .message {text-align:center;}
+#mail-con .alertwindow-close-button {display:inline-block; overflow:hidden; background-repeat: no-repeat;background:url(/images/emailbind/alert-close.jpg) no-repeat -2px -2px;width:26px;height:21px;
+}
+#mail-con .header {text-align: right;}
+#mail-con .alertwindow-close-button:hover {background-position: -2px -25px;}
+#bindemail-error {padding-top:10px;padding-left:28px;}
+
